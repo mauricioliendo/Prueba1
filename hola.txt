@@ -1,9 +1,3 @@
 #!/usr/bash
 
-Hola mundo soy el groso de mauri
-
-Esto es un script
-
-pulsesecure / not more
-
-hola, mi nombre es ricardo
+Hola
