@@ -6,4 +6,4 @@ Esto es un script
 
 pulsesecure / not more
 
-hola
+hola, mi nombre es ricardo
